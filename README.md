@@ -9,9 +9,7 @@
 * 主要是实现了action tokenizer，能够解析part2处理好的数据里的 action tensor（target）
 
 ps：详细实现可见笔记：https://darren-dong.notion.site/OpenVLA-LLaVA-11a471fbaea480839ee6ca55f122a187?pvs=4：笔记->
-LLaVA-OV库更改 -> 迭代式dataloader + 保存
-
-理解OpenVLA仓库见：笔记 -> LLaVA-OV库更改 -> 修改训练部分（数据+action tokenizer+input_ids）
+LLaVA-OpenVLA库详细实现 -> 迭代式dataloader + 保存
 
 # LLaVA-NeXT: Open Large Multimodal Models
 
